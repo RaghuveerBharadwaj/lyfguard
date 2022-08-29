@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lyfguard/static/css/main.e8bb1d74.css",
-    "main.js": "/lyfguard/static/js/main.8b4e891e.js",
+    "main.js": "/lyfguard/static/js/main.bcb9306a.js",
     "static/js/787.a4ace2ad.chunk.js": "/lyfguard/static/js/787.a4ace2ad.chunk.js",
     "index.html": "/lyfguard/index.html",
     "main.e8bb1d74.css.map": "/lyfguard/static/css/main.e8bb1d74.css.map",
-    "main.8b4e891e.js.map": "/lyfguard/static/js/main.8b4e891e.js.map",
+    "main.bcb9306a.js.map": "/lyfguard/static/js/main.bcb9306a.js.map",
     "787.a4ace2ad.chunk.js.map": "/lyfguard/static/js/787.a4ace2ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8bb1d74.css",
-    "static/js/main.8b4e891e.js"
+    "static/js/main.bcb9306a.js"
   ]
 }
